@@ -2,6 +2,8 @@
   "name": "lyric_app",
   "version": "0.1.0",
   "private": true,
+  "author": "Toufiq (https://twitter.com/burningraven06)",
+  "description" : "Brushing Up React",
   "dependencies": {
     "moment": "^2.22.2",
     "react": "^16.5.1",
